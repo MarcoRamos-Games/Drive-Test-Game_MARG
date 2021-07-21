@@ -4450,13 +4450,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 75
-  m_fontSizeBase: 75
+  m_fontSize: 100
+  m_fontSizeBase: 100
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -8668,8 +8668,8 @@ Transform:
   - {fileID: 1313665758}
   - {fileID: 1417418647}
   - {fileID: 1264033550}
-  - {fileID: 495830019}
   - {fileID: 1026955416}
+  - {fileID: 495830019}
   - {fileID: 425208717}
   m_Father: {fileID: 0}
   m_RootOrder: 8
